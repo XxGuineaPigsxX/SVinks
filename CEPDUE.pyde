@@ -1,0 +1,8 @@
+size(900,900)
+translate(450,450)
+fill(255,0,0)
+stroke(255,0,0)
+rotate(radians(45))
+ellipse(50,0,100,100)
+ellipse(0,50,100,100)
+rect(0,0,100,100)
